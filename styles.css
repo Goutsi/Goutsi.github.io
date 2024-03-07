@@ -9,18 +9,17 @@ header,footer{
 }
 
 
-nav{
-    background-color: bisque;
-    padding: 25px;
-    height: 550px;
-    float: left;
-    text-align: left;
-}
+
 
 nav ul{
     list-style-type: none;
     padding: 0;
     font-size: larger;
+    background-color: bisque;
+    padding: 25px;
+    height: 550px;
+    float: left;
+    text-align: left;
 }
 
 section {
@@ -74,7 +73,7 @@ footer{
  
  .wrapper>div {
     display:inline;
-
+   
  }
 
  body{
