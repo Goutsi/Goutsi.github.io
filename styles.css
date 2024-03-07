@@ -1,5 +1,5 @@
 header,footer{
-    background-color: blue;
+    background-color: black;
     color: white;
     padding: 1em;
     text-align: center;
@@ -7,7 +7,6 @@ header,footer{
     font-weight: bold;
     clear: left;
 }
-
 
 
 
@@ -20,6 +19,10 @@ nav ul{
     height: 550px;
     float: left;
     text-align: left;
+}
+
+li>a {
+    color: black;
 }
 
 section {
@@ -66,14 +69,17 @@ footer{
     background-color: gray;
     display:block;
     text-align: center;
-    
-
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
  }
 
- 
+ div>a {
+    color: cyan;
+ }
+
+
  .wrapper>div {
     display:inline;
-   
+    
  }
 
  body{
