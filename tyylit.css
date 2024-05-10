@@ -1,0 +1,110 @@
+
+
+header,footer{
+    background-color: white;
+    padding: 1em;
+   
+}
+
+ul {
+ color: whitesmoke;
+}
+
+
+nav h1 {
+   font-style: italic;
+   color: white;
+}
+
+nav ul{
+    font-style: oblique;
+color: white;
+}
+
+
+li {
+    color: white;
+}
+
+.navbar {
+    padding: 10px;
+    margin-top: 20px;
+    color: black;
+    
+}
+
+.row {
+    margin-top: 20px;
+}
+
+
+#teksti {
+    background-color: green;
+    text-align: center;
+}
+
+#alakerta {
+    border-radius:10px;
+padding: 10px;
+margin-inline: 15px;
+background-color:green;
+}
+
+
+.container {
+  align-content:;
+  display: flexbox;
+  
+}
+
+h1 {
+    color: whitesmoke;
+    }
+
+p {
+    color: whitesmoke;
+   
+}
+
+h2 {
+    font-size: large;
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+}
+
+
+h3 {
+    text-align: center;
+    color: white;
+}
+
+#otsikko {
+    background-color: green;
+    padding: 1px;
+    margin-top: 10px;
+}
+
+h5 {
+    font-style: oblique;
+}
+
+#kontti2 {
+    margin-bottom: 200px;
+    background-color: green;
+    text-align: center;
+
+}
+
+
+p {
+    color: whitesmoke;
+}
+
+#yhteystiedot {
+    background-color: GREEN;
+}
+
+#OSOITE {
+    background-color: white;
+}
