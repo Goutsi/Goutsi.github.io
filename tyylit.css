@@ -8,6 +8,7 @@ header,footer{
 
 ul {
  color: whitesmoke;
+ list-style-type: circle;
 }
 
 
@@ -21,6 +22,10 @@ nav ul{
 color: white;
 }
 
+.lista1 {
+    list-style-type:none
+    
+}
 
 li {
     color: white;
@@ -41,6 +46,7 @@ li {
 #teksti {
     background-color: green;
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #alakerta {
@@ -48,12 +54,28 @@ li {
 padding: 10px;
 margin-inline: 15px;
 background-color:green;
+font-family: Arial, Helvetica, sans-serif;
 }
 
+#alakerta1 {
+    border-radius:10px;
+padding: 10px;
+margin-inline: 15px;
+background-color:green;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#alakerta2 {
+    border-radius:10px;
+padding: 10px;
+margin-inline: 15px;
+background-color:green;
+font-family: Arial, Helvetica, sans-serif;
+list-style-type: none;
+}
 
 .container {
-  align-content:;
-  display: flexbox;
+
   
 }
 
