@@ -39,11 +39,10 @@ li {
 
 .row {
     margin-top: 20px;
-    margin-left: auto;
 }
 
 .container {
-    display: flexbox;
+    
 }
 
 #teksti {
@@ -74,7 +73,7 @@ font-family: Arial, Helvetica, sans-serif;
 #alakerta1 {
     border-radius:10px;
 padding: 10px;
-margin-inline: 15px;
+margin-inline: 16px;
 background-color:green;
 font-family: Arial, Helvetica, sans-serif;
 }
