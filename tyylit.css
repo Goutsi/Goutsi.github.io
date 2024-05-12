@@ -39,11 +39,23 @@ li {
 
 .row {
     margin-top: 20px;
-    
+    margin-left: auto;
+}
+
+#kuvasivu.row {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#yhteystiedot2.row {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .container {
-    
+    display: flexbox;
 }
 
 #teksti {
@@ -74,7 +86,7 @@ font-family: Arial, Helvetica, sans-serif;
 #alakerta1 {
     border-radius:10px;
 padding: 10px;
-margin-inline: 16px;
+margin-inline: 15px;
 background-color:green;
 font-family: Arial, Helvetica, sans-serif;
 }
