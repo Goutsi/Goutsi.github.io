@@ -106,7 +106,7 @@ h1 {
 
 p {
     color: whitesmoke;
-   
+   font-family: Arial, Helvetica, sans-serif;
 }
 
 h2 {
@@ -132,6 +132,12 @@ h5 {
     font-style: oblique;
 }
 
+h6 {
+    font-size: x-large;
+    color: whitesmoke;
+    
+}
+
 #kontti2 {
     margin-bottom: 200px;
     background-color: green;
@@ -139,6 +145,12 @@ h5 {
 
 }
 
+#kontti3 {
+    margin-bottom: auto;
+    background-color: green;
+    text-align: center;
+
+}
 
 p {
     color: whitesmoke;
